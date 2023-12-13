@@ -2,7 +2,7 @@
 
 <img src="preview.jpg" width="250" title="Preview" />
 
-Use the files in this repository to 3D print a desktop Shopmonkey companion; the G-code contains a set of 5 logos, suitable for printing on a standard size print bed.
+Use the STL file to 3D print a desktop Shopmonkey companion; the dimensions are approximately 3" x 3".
 
 The `Stand` is optional; without the stand, the logo can lay flat, or you can use the cutout on the back of the `Base` to attach a 3M Command Strip-style adhesive.
 
