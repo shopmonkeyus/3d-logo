@@ -1,6 +1,6 @@
 # Shopmonkey 3D Logo
 
-![Preview](preview.jpg)
+<img src="preview.jpg" width="250" title="Preview" />
 
 Use the files in this repository to 3D print a desktop Shopmonkey companion; the G-code contains a set of 5 logos, suitable for printing on a standard size print bed.
 
